@@ -1,4 +1,10 @@
 # LL-1-
+Integrantes:
+
+  - Eduardo Hincapie
+  - Josh Lopez
+  - Miguel Suarez
+  - Alejandra Vargas
 # 📘 Análisis Sintáctico Descendente - Eliminación de Recursividad por la Izquierda, FIRST, FOLLOW y ASDR
 
 Este repositorio contiene un análisis detallado de una gramática libre de contexto. Se realiza la eliminación de recursividad por la izquierda, el cálculo de conjuntos **FIRST**, **FOLLOW**, **PREDICCIÓN**, y una implementación de un **análisis sintáctico descendente recursivo (ASDR)** en Python.
